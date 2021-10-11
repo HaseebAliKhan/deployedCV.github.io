@@ -1,0 +1,101 @@
+
+.body{
+    
+}
+ .body2{
+    border-style: solid;
+    margin-left: 750px;
+    margin-top: 90px;
+    margin-right: 650px;
+    border-width: 1px;
+    
+    
+} 
+.name{
+    /* text-align: center; */
+    
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 10px;
+    color: rgba(50, 7, 99, 0.979);
+}
+.bio{
+    /* text-align: center; */
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 10px;
+    color: rgb(161, 11, 167);
+}
+.biop{
+    /* text-align: center; */
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    margin-left: 50px;
+    margin-top: 0px;
+    
+}
+.color{
+    color: rgb(161, 11, 167);
+}
+.img{
+    width: 200px;
+    border-style: hidden;
+    border-radius: 200px;
+    padding: 60px;
+}
+.body1{
+    background-image: url(bg.jpg);
+    border-style: solid;
+    position: absolute;
+    margin-left: 429px;
+    margin-right: 150px;
+    border-width: 1px;
+    
+}
+.add{
+    margin-left: 100px;
+    color: ivory;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lo{
+    position: absolute;
+    width: 40px;
+    margin-left: 40px;
+    margin-top: -55px;
+}
+.no{
+    margin-top: 70px;
+    margin-left: 100px;
+    color: ivory;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.ph{
+    position: absolute;
+    width: 80px;
+    margin-left: 20px;
+    margin-top: -60px;
+}
+.em{
+    position: absolute;
+    width: 40px;
+    margin-left: 40px;
+    margin-top: -340px;
+}
+.emn{
+    padding-bottom: 300px;
+    margin-top:70px;
+    margin-left: 100px;
+    color: ivory;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.com{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 98px;
+}
